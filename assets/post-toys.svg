@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="宠物玩具礼包">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0fa"/>
+      <stop offset="1" stop-color="#ff9ac6"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="260" fill="url(#bg)"/>
+  <circle cx="111" cy="134" r="55" fill="#fff" opacity=".86"/>
+  <circle cx="236" cy="137" r="51" fill="#ffccdf"/>
+  <path d="M209 105c22-30 63-20 70 18 8 41-27 71-67 51-32-16-26-42-3-69z" fill="#ff6ca7"/>
+  <path d="M83 105h58v58H83z" fill="#fff1a6" transform="rotate(-16 112 134)"/>
+  <path d="M78 134h69M112 99v69" stroke="#f2ae28" stroke-width="10" stroke-linecap="round"/>
+  <rect x="18" y="18" width="132" height="34" rx="17" fill="#fff" opacity=".9"/>
+  <text x="36" y="41" font-family="PingFang SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#d94d86">玩具礼包</text>
+</svg>

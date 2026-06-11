@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="小黄 金毛">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dff7ff"/>
+      <stop offset="1" stop-color="#86d3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="260" fill="url(#bg)"/>
+  <circle cx="64" cy="54" r="42" fill="#fff" opacity=".48"/>
+  <circle cx="304" cy="83" r="58" fill="#fff" opacity=".35"/>
+  <path d="M0 184c48-20 99-27 153-10 81 25 129 7 207-31v117H0z" fill="#f7fff7" opacity=".86"/>
+  <ellipse cx="178" cy="151" rx="86" ry="55" fill="#e0a947"/>
+  <path d="M116 115c-16-27-4-56 28-53 20 20 15 49-2 69z" fill="#a86b2b"/>
+  <path d="M244 115c16-27 4-56-28-53-20 20-15 49 2 69z" fill="#a86b2b"/>
+  <circle cx="180" cy="124" r="58" fill="#f0bf67"/>
+  <circle cx="160" cy="119" r="6" fill="#232323"/>
+  <circle cx="202" cy="119" r="6" fill="#232323"/>
+  <ellipse cx="181" cy="138" rx="12" ry="8" fill="#4a3226"/>
+  <path d="M168 153c7 10 17 13 26 0" fill="none" stroke="#6f4329" stroke-width="6" stroke-linecap="round"/>
+  <rect x="18" y="18" width="104" height="34" rx="17" fill="#fff" opacity=".9"/>
+  <text x="38" y="41" font-family="PingFang SC, Arial, sans-serif" font-size="19" font-weight="700" fill="#1c8b67">小黄</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="志愿者服务">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2f4ff"/>
+      <stop offset="1" stop-color="#8ea0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="260" fill="url(#bg)"/>
+  <circle cx="135" cy="113" r="36" fill="#fff5e0"/>
+  <circle cx="225" cy="113" r="36" fill="#ffe7f0"/>
+  <path d="M84 225c8-44 31-69 67-69s59 25 67 69z" fill="#fff" opacity=".9"/>
+  <path d="M142 225c8-44 31-69 67-69s59 25 67 69z" fill="#fff" opacity=".8"/>
+  <path d="M164 106c18 23 44 23 62 0" fill="none" stroke="#ff8d69" stroke-width="12" stroke-linecap="round"/>
+  <path d="M95 92c29-35 72-31 88 10" fill="none" stroke="#4b64dc" stroke-width="16" stroke-linecap="round"/>
+  <rect x="18" y="18" width="132" height="34" rx="17" fill="#fff" opacity=".9"/>
+  <text x="36" y="41" font-family="PingFang SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b64dc">志愿服务</text>
+</svg>

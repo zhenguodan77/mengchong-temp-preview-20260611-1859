@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="金金 金毛犬">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0b8"/>
+      <stop offset="1" stop-color="#f7a94f"/>
+    </linearGradient>
+    <linearGradient id="dog" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbd67a"/>
+      <stop offset="1" stop-color="#c87b2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="260" fill="url(#bg)"/>
+  <circle cx="292" cy="46" r="52" fill="#fff8dc" opacity=".5"/>
+  <path d="M0 198c54-28 104-36 160-18 66 20 111 9 200-28v108H0z" fill="#fff8e6" opacity=".88"/>
+  <ellipse cx="180" cy="156" rx="83" ry="62" fill="url(#dog)"/>
+  <circle cx="136" cy="124" r="38" fill="#cf812e"/>
+  <circle cx="224" cy="124" r="38" fill="#cf812e"/>
+  <circle cx="180" cy="132" r="66" fill="#e9ae50"/>
+  <circle cx="156" cy="126" r="7" fill="#2f271c"/>
+  <circle cx="204" cy="126" r="7" fill="#2f271c"/>
+  <path d="M172 144c6-5 12-5 17 0 0 9-17 9-17 0z" fill="#4a321d"/>
+  <path d="M162 160c12 14 28 14 40 0" fill="none" stroke="#6f431f" stroke-width="7" stroke-linecap="round"/>
+  <rect x="18" y="18" width="104" height="34" rx="17" fill="#fff" opacity=".88"/>
+  <text x="38" y="41" font-family="PingFang SC, Arial, sans-serif" font-size="19" font-weight="700" fill="#b86f13">金金</text>
+</svg>
